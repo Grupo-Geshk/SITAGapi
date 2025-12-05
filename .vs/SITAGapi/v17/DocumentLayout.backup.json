@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|c:\\users\\gio\\source\\repos\\sitagapi\\sitagapi\\infrastructure\\data\\sitagdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|solutionrelative:sitagapi\\infrastructure\\data\\sitagdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|c:\\users\\gio\\source\\repos\\sitagapi\\sitagapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|solutionrelative:sitagapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|c:\\users\\gio\\source\\repos\\sitagapi\\sitagapi\\sitagapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8B7D19D1-6B34-4470-8B11-3A52808E7C24}|SITAGapi\\SITAGapi.csproj|solutionrelative:sitagapi\\sitagapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SitagDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\Infrastructure\\Data\\SitagDbContext.cs",
+              "RelativeDocumentMoniker": "SITAGapi\\Infrastructure\\Data\\SitagDbContext.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\Infrastructure\\Data\\SitagDbContext.cs*",
+              "RelativeToolTip": "SITAGapi\\Infrastructure\\Data\\SitagDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:42:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SITAGapi.http",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\SITAGapi.http",
+              "RelativeDocumentMoniker": "SITAGapi\\SITAGapi.http",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\SITAGapi.http",
+              "RelativeToolTip": "SITAGapi\\SITAGapi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-05T05:32:16.671Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -18,6 +57,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1517695089:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\API\\Program.cs",
+              "RelativeDocumentMoniker": "SITAGapi\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Gio\\source\\repos\\SITAGapi\\SITAGapi\\API\\Program.cs",
+              "RelativeToolTip": "SITAGapi\\API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T05:38:45.117Z",
+              "EditorCaption": ""
             }
           ]
         }
